@@ -13,3 +13,8 @@ Python Basics for 2nd years EEE
   - Markdown Format with sample examples on each
   - Variable Assignment Types with sample example on each
   - Data types,type,Operators and Input Formatting with sample example on each
+
+## Day-03(14-09-2023):
+  - Output Formatting with sample examples on each
+  - Conditional Statements Overview,if,if-else,nested if and elif with sample example on each
+  - Loops Overview,for,range and while with sample example on each
