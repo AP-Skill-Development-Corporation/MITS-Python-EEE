@@ -1,0 +1,69 @@
+Day-04[15-09-2023]:
+===================
+	Good Morning All..
+	
+	While Statement
+	Jumping Statements
+
+	Topics Discussed:
+	=================
+	Inner Loops
+	Function and its types
+	User Defined Function types
+	Function Argument Types
+	
+
+	Task:
+	=====
+		Concept:
+		========
+			- All Data Structures Overview [List,Tuple,Set and Dictonary]
+
+		Problem-1:[Dont use Typecasting for this problem]
+		=========
+			Input-1:
+			========
+				4589658
+			Output-1:
+			========
+				Given number is: 4589658
+				Reverse of a number is: 8569854
+				Even numbers are: 4 8 6 8
+				Odd numbers are: 5 9 5
+				Even number sum is: 26
+				Odd number sum is: 19
+				Even numbers count is: 4
+				Odd numbers count is: 3
+
+			Input-2:
+			========
+				1985
+			Output-2:
+			=======
+				Given number is: 1985
+				Reverse of a number is: 5891
+				Even numbers are: 8
+				Odd numbers are: 1 9 5
+				Even number sum is: 8
+				Odd number sum is: 15
+				Even numbers count is: 1
+				Odd numbers count is: 3
+
+		Problem-2[Dont use Typecasting for this problem]
+		==========
+			Input-1:
+			========
+				158984
+			Output-1:
+			=========
+				Given number is: 158984
+				Left Half number Reverse is: 851984
+				Right Half number Reverse is: 158489
+			Input-2:
+			========
+				45871
+			Output-2:
+			=========
+				Given number is: 45871
+				Left Half number Reverse is: 54871
+				Right Half number Reverse is: 45817
