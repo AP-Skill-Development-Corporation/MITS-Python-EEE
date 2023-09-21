@@ -22,4 +22,8 @@ Python Basics for 2nd years EEE
 ## Day-04(15-09-2023):
   - While with sample example on each
   - Jumping Statements (break,continue and pass) with sample on each
-  - Inner Loops,Function argument types,user defined function types,function argumnet types overview
+  - Inner Loops,Function argument types,user defined function types,function argument types overview
+
+## Day-05(16-09-2023):
+  - Function types,User Defined function types with sample examples on each
+  - Function Argument Types, Data Structures Overview, List and tuple methods with sample example on each
